@@ -5,7 +5,7 @@ import sys
 
 
 print("\n\n\t\t++++++++++++++++++++++++++++++++++++++++")
-print("\t\t          ** Ed$Finaças$ **                 ")
+print("\t\t          ** Ed$Finanças$ - v3 **                 ")
 print()
 # declaração de variáveis
 soma = 0.0
@@ -30,5 +30,5 @@ print("             ++ S U M Á R I O ++                ")
 print("+++++++++++++++++++++++++++++++++++++++++++++   ")
 print(f"   QUANTIDADE DE CONTAS..... [ 0{contar_contas} ] ")
 print(f"   TOTAL DAS CONTAS......... R$: {soma:.2f}    ")
-sys.exit("\n                  Ed$Finaças$ - Obrigado!\n\n")
+sys.exit("\n                  Ed$Finanças$ - Obrigado!\n\n")
 # fim do sistema

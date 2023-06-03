@@ -1,6 +1,6 @@
 # início do sistema
 print("\n\n\t\t++++++++++++++++++++++++++++++++++++++++")
-print("\t\t          ** Ed$Finaças$ **                 ")
+print("\t\t          ** Ed$Finanças$ - v1 **                 ")
 print()
 soma = 0.0  # variável para calcular os valores
 # ...
